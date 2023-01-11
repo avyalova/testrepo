@@ -6,7 +6,7 @@
 
 * GIT PULL
   * Right away merge the changes from repository to local branch
-* GIT FATCH
+* GIT FETCH
   * Does not merge the changes from repository to local branch, you can check changes and commit them after
 * GIT COMMIT--AMEND
   * COmmand use to add changes to the latest comit changes 
