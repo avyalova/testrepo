@@ -1,2 +1,2 @@
-const x = 5
-const y = 6
+const x = 8
+const y = 12
