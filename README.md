@@ -1,7 +1,7 @@
-#Project Title
+# Project Title
 >A little side note, be creative, think of user friendliness, and keep them motivated to read it.
 
-##GIT comands difference
+## GIT comands difference
 >There are m2 commands in git which are do similar things:
 
 * PULL
